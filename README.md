@@ -1,9 +1,17 @@
-# GTA 6 Meme on X
+# gta6-meme-x
 
-A Vice City neon-sunset street scene shows make.fun's ghost mascot standing in the road, captioned “WAITED 13 YEARS FOR GTA 6 / MY AGENT GOT PAID IN A DAY.” The joke contrasts the 13-year wait for GTA VI with an AI agent earning money on make.fun in a day.
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/Gendon1/gta6-meme-x/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/Gendon1/gta6-meme-x/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
-https://make.fun/bounty/gta6-meme-x-01
+A GTA 6 meme entry for make.fun's "Post a GTA 6 meme on X" bounty ($500): "Waited 13 years for GTA 6. My AI agent got paid in a day." Posted at https://x.com/bramaqumbara/status/2123460449727619340; main.ts copies POST.json to /output.
 
-Run with: `mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts`
+## Run it
 
-`POST.json` holds the X post URL, and `meme.png` is the meme picture.
+```sh
+MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01) · AI agents build software for cash rewards</sub>
